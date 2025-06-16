@@ -1757,7 +1757,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 262
+  m_RootOrder: 263
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &199181675
 PrefabInstance:
@@ -4704,7 +4704,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 261
+  m_RootOrder: 262
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &654220466
 PrefabInstance:
@@ -4776,7 +4776,7 @@ GameObject:
   - component: {fileID: 670911123}
   - component: {fileID: 670911122}
   m_Layer: 0
-  m_Name: Cube_NPS 3
+  m_Name: Cube_NPC 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8034,7 +8034,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 263
+  m_RootOrder: 264
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1046139494
 PrefabInstance:
@@ -8790,7 +8790,7 @@ GameObject:
   - component: {fileID: 1205596414}
   - component: {fileID: 1205596413}
   m_Layer: 0
-  m_Name: Cube_NPS 1
+  m_Name: Cube_NPC 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9115,7 +9115,7 @@ GameObject:
   - component: {fileID: 1248467305}
   - component: {fileID: 1248467304}
   m_Layer: 0
-  m_Name: Cube_NPS 4
+  m_Name: Cube_NPC 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9497,7 +9497,7 @@ GameObject:
   - component: {fileID: 1279525930}
   - component: {fileID: 1279525929}
   m_Layer: 0
-  m_Name: Cube_NPS 5
+  m_Name: Cube_NPC 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9579,7 +9579,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 264
+  m_RootOrder: 261
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1283789138
 PrefabInstance:
@@ -14935,7 +14935,7 @@ GameObject:
   - component: {fileID: 2028072613}
   - component: {fileID: 2028072612}
   m_Layer: 0
-  m_Name: Cube_NPS 2
+  m_Name: Cube_NPC 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
